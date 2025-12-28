@@ -56,6 +56,8 @@ Available Filters
 - Category (Accessories, Clothing, Footwear, Outerwear)
 - Shipping Type (2-Day, Express, Free Shipping, Next Day Air, Standard, Store Pickup)
 
+![Customer Behavior Dashboard](dashboard.png)
+
 ## 📈 Results & Insights
 
 - The business has 3.9K total customers with an average purchase amount of $59.76 and an average review rating of 3.75.
