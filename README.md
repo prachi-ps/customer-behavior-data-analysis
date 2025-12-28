@@ -62,3 +62,10 @@ Available Filters
 - Clothing is the top-performing category in both revenue and sales, while accessories follow and footwear/outerwear perform lower.
 - Only 27% of customers are subscribers, suggesting an opportunity to increase subscription adoption.
 - Young customers generate the highest revenue, making them the strongest target segment.
+
+## 🚀 Conclusion
+
+This project highlights practical, real-world data analytics skills:
+- End-to-end data pipeline development
+- Python + SQL + Power BI integration
+- Business-focused insights and reporting
